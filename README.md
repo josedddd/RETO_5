@@ -1,5 +1,5 @@
 # RETO_5
-Este es el reto 5
+Este es el reto 5 (profe esto es un curso de programacion, mis errores de ortografia no deben ser juzgados :v)
 # Punto1
 En la carpeta punto 1, se encuentran la solucion a la siguiente instruccion: 
 A unique module inside of package Shape
